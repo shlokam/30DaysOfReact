@@ -7,7 +7,7 @@ export default function UserCard(){
     const name = "FIRSTNAME LASTNAME";
     const role = 'Developer';
     const location = 'Country'
-    const skills = ['HTML' , 'CSS', 'Javascript','React','Redux','Node','MongoDB','MYSQL','Docker'];
+    const skills = ['HTML' , 'CSS', 'Javascript','React'];
     const date = 'Jan 30,2023'
 
 
@@ -17,10 +17,7 @@ export default function UserCard(){
             <h3>{name} <GoVerified/></h3>
             <p>{role} , {location}</p>
             <h3>Skills</h3> 
-            
             <ul>
-
-            
             {skills.map(skill=>(
                 <li>
                     {skill}

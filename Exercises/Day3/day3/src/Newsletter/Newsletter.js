@@ -2,24 +2,32 @@ import React from "react";
 import './Newsletter.css';
 
 export default function NewsLetter(){
+    
+    const heading = 'SUBSCRIBE';
+    const text = 'Sign up with your email adress to recieve news and updates';
+    const firstNamePlaceHolder = 'First Name';
+    const lastNamePlaceHolder = 'Last Name';
+    const emailPlaceHolder = 'Email';
+    const buttonText= 'Subscribe';
+
     return(
         <div className="newsletter">
-            <h2>SUBSCRIBE</h2>
-            <p>Sign up with your email adress to recieve news and updates</p>
+            <h2>{heading}</h2>
+            <p>{text}</p>
 
             <input
-            placeholder="First Name"
+            placeholder={firstNamePlaceHolder}
             type='text'
             />
             <input
-            placeholder="Last Name"
+            placeholder={lastNamePlaceHolder}
             type='text'
             />
             <input
-            placeholder="Email"
+            placeholder={emailPlaceHolder}
             type='email'
             />
-            <button>Subscribe</button>
+            <button>{buttonText}</button>
         </div>
     )
 }
