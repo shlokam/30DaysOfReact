@@ -1,0 +1,37 @@
+.card {
+    background-color: aqua;
+    /* padding: 5%; */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  width: 50%;
+  height: 50%;
+  border: 2px solid #312d2d;
+  background: #eff1f0;
+  margin: 5%;
+  margin-left: 25%;
+
+}
+
+.card table,td,th{
+    margin-left: 15%;
+  /* //  border: 1px solid; */
+    /* border-collapse: collapse; */
+    padding: 15px;
+    
+   
+}
+
+.card table{
+    width: 70%;
+    text-align: center;
+}
+
+.card th{
+    border-bottom: 1px solid gray;
+    color:#312d2d
+}
+
+.card .head{
+    color: black;
+}
