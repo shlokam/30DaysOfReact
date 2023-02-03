@@ -9,3 +9,4 @@ This is taken from [30 Days of React](https://github.com/Asabeneh/30-Days-Of-Rea
 | [3](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day3/day3)  | React - Render elements using JSX. Made templates for Newsletter and UserCard |
 | [4](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day4/day4)  | React - Made Random Color Generator using Components |
 | [5](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day5/day5)  | React - Color generator using Props and Components |
+| [6](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day6/day6)  | React - Color-Coded Number Generator to distinguish them as prime,even or odd. Made using dynamic tables. |
