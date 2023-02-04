@@ -11,3 +11,4 @@ This is taken from [30 Days of React](https://github.com/Asabeneh/30-Days-Of-Rea
 | [5](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day5/day5)  | React - Color generator using Props and Components |
 | [6](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day6/day6)  | React - Color-Coded Number Generator to distinguish them as prime,even or odd. Made using dynamic tables. |
 | [7](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day7/day7)  | React - Made Random Country Generator using States. Added Dark Theme toggle also. |
+| [8](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day8)  | React - Made Season Selector using Conditional Rendering |
