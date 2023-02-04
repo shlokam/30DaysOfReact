@@ -23,3 +23,7 @@ A Random Country Generator using [dataset](https://cdn.jsdelivr.net/npm/country-
 
 Imported the dataset in Country.js. Calculated a random index and passed countries[index] to CountryCard. CountryCard displays that particular country's flag, name, emoji and unicode.
 
+
+
+https://user-images.githubusercontent.com/107931497/216755893-a5ad3beb-2626-49bb-b9a0-0e6f4136459a.mp4
+
