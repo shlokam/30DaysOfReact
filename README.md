@@ -14,3 +14,4 @@ This is taken from [30 Days of React](https://github.com/Asabeneh/30-Days-Of-Rea
 | [8](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day8)  | React - Made Season Selector using Conditional Rendering |
 | [9](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day9)  | React - Explored File Structuing and Event Triggering - Mouse Click, Button CLick, Keyboard Press. |
 | [10](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day10)  | React - Explored Form Validation|
+| [11](https://github.com/shlokam/30DaysOfReact/tree/main/Exercises/Day11)  | React - Explored Component Life Cycles|
